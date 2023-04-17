@@ -1,0 +1,89 @@
+.container{
+	background-color: yellow;
+	color: red;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	margin: 20px;
+}
+.asad9{
+	color: black;
+	text-align-last: center;
+}
+.asad10{
+	color:blue;
+}
+.asad1{
+	color:red;
+	text-align-last: center;
+}
+.asad2{
+	color: blue;
+}
+.asad3{
+	color: blue;
+}
+.asad4{
+	background-color: lightgray;
+	padding: 5px;
+}
+.asad5{
+	background-color: blue;
+	padding: 5px;
+	color: white;
+}
+.asad6{
+	background-color: yellow;
+	padding: 5px;
+}
+.asad15{
+	margin:20px ;
+	background-color: lightskyblue;
+	padding-top: 25px;
+	padding-right:50px;
+	padding-bottom:75px;
+	padding-left: 100px;
+}
+.asad14{padding: 5px;
+	margin: 20px;
+	background-color: white;
+	border:5px solid;
+	text-decoration:;
+}
+.asad13{
+	text-decoration: underline;
+}
+.asad16{
+	margin: 20px;
+	background-color: lightgrey;
+	padding: 50px;
+border: 20px solid;
+border-color: green;
+}
+.asad12{
+	text-decoration: line-through;
+}
+.asad11{
+text-decoration: overline;	
+}
+.asad20{
+	background-color: white;
+}
+.asad21{
+	/*padding: 200px;
+	padding-bottom: 500px;
+	color: white;
+	text-align-last: center;
+	font-size: 300px;*/
+}
+.asad22{
+	border-radius: 40px;
+	
+	
+
+}
+.asad25{
+	background-color: gray;
+	color: white;
+}
+
+
